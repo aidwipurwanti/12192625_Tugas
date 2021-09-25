@@ -1,0 +1,13 @@
+<?php
+class contoh1  extends CI_Controller
+{
+    public function index()
+    {
+        echo "<h1>Perkenalkan</h1;
+        echo "Nama saya Ai Dwi Purwanti
+             Saya tinggal di Cimerak Pangandaran
+             Saya menyukai tempat yang tenang dan damai
+             Nomor handphone 082214297856";
+    }
+}
+?>
